@@ -2,15 +2,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: Full-stack projects using **MERN** and **Next.js**  
-- 🌱 I’m currently learning: **Data Structures & Algorithms** through **LeetCode**  
-- 👯 I’m looking to collaborate on: Open source projects or cool web apps  
-- 🤔 I’m looking for help with: Cracking **job interviews** and building a strong dev profile  
-- 💬 Ask me about: **JavaScript, React, Node.js, MongoDB, Next.js, GitHub**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sudeepprajapati) | [Email](mailto:sudeep.mint@gmail.com)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love **One Piece, Marvel, and coding all night!**
-
+- 🔭 Currently working on full-stack web applications using **MERN** and **Next.js**
+- 🌱 Actively improving **Data Structures & Algorithms** skills via **LeetCode**
+- 👯 Open to collaboration on open-source projects and production-grade web apps
+- 🤝 Seeking guidance and opportunities to crack **technical interviews** and grow as a developer
 ---
 
 ## 🌐 Socials:
